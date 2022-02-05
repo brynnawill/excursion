@@ -30,6 +30,10 @@ img {
   color: aquamarine;
   font-size: 16px;
   text-align: center;
+  text-decoration: underline;
+}
+.download:hover {
+  cursor: pointer;
 }
 footer {
   color: gray;
